@@ -1,0 +1,349 @@
+.nav img {
+    width: 9%;
+}
+.nav ul li {
+	list-style: none;
+	padding: 0px 20px;
+	float: left;
+}
+.nav ul li a {
+	font-family: sans-serif;
+    color: #201f1f;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+}
+.nav ul li a:hover{
+	color: #f12694;
+}
+.scooter .content {
+    margin-top: 9rem;
+    width: 122%;
+}
+.scooter .content h1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.scooter .content h1 span {
+    color: #f12694;
+}
+.scooter .content p {
+    opacity: 0.8;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.scooter img {
+    width: 100%;
+}
+.scooter .content button.btn.btn-danger {
+    border-radius: 0px;
+    background-color: #f12694;
+    border: 0;
+    color: #212529;
+    font-weight: 700;
+    padding: 8px 20px;
+}
+.details {
+    margin-bottom: 6rem;
+    padding: 0rem 12rem;
+    margin-top: 6rem;
+}
+.details .task {
+    border-top-right-radius: 6rem;
+    border-top-left-radius: 6rem;
+    background: linear-gradient( 
+180deg
+ , #f405868c, #e9ecef5e);
+    text-align: center;
+    padding: 3rem 0rem;
+}
+.details i.fa.fa-amazon {
+	margin-bottom: 20px;
+    color: #fff;
+    background: black;
+    font-size: 42px;
+    padding: 10px 10px;
+    border-radius: 5rem;
+}
+.details i.fa.fa-behance {
+    font-size: 37px;
+    margin-bottom: 20px;
+    background: black;
+    color: #fff;
+    padding: 13px 10px;
+    border-radius: 5rem;
+}
+.details i.fa.fa-dribbble {
+	margin-bottom: 20px;
+    font-size: 62px;
+}
+.bike .task h4 {
+    margin-bottom: 15px;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: lightcoral;
+}
+.bike .task h6 {
+    margin-bottom: 10px;
+    opacity: 0.9;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.bike .task span {
+    margin-bottom: 10px;
+    opacity: 0.8;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.bike .task ul {
+	margin-bottom: 2rem;
+	padding: 0;
+}
+.bike .task ul li {
+	float: left;
+	list-style: none;
+	
+}
+.bike {
+	    margin-bottom: 5rem;
+    padding: 0rem 15rem;
+}
+.bike .task {
+    padding: 0rem 8rem;
+}
+.bike .task  img {
+    width: 100%;
+}
+.bike .task  ul li i.fa.fa-circle {
+    padding-right: 17px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.bike .task ul li i.fa.fa-circle:hover{
+	text-decoration: underline;
+	text-decoration-style: dashed;
+}
+.bike .task button.btn.btn-secondary {
+    border: 1px solid black;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.text h4 {
+    font-family: sans-serif;
+    margin-bottom: 25px;
+}
+.box {
+    background-color: #d3d3d326;
+    padding: 3rem 12rem;
+}
+.box .card {
+    border: 0;
+    box-shadow: 0 0.25rem 0.5625rem -0.0625rem rgb(0 0 0 / 0%), 0 0.275rem 1.25rem -0.0625rem rgb(0 0 0 / 44%);
+}
+.box .card-tittle {
+    padding: 50px 25px;
+}
+.box .card-tittle img {
+    padding-right: 20px;
+    float: left;
+}
+.box .card-tittle h6 {
+    font-weight: 600;
+    font-family: sans-serif;
+    padding-top: 7px;
+    font-size: 11px;
+}
+.box .card-body {
+    padding-top: 20px;
+    /* padding: 19px 25px; */
+    background: lightpink;
+    padding-bottom: 10px;
+}
+.box .card-body p {
+    font-size: 13px;
+    text-align: center;
+}
+.bullet {
+    padding: 3rem 15rem;
+}
+.bullet .task {
+    padding: 0rem 8rem;
+}
+.bullet .content ul {
+    padding: 0;
+}
+.bullet .content ul li {
+    list-style: none;
+    float: left;
+   padding-right: 2rem;
+}
+.bullet .content ul li a {
+font-family: sans-serif;
+    color: black;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.bullet img {
+    width: 100%;
+}
+.bullet .task .content {
+    margin-top: 1rem;
+}
+.bullet .task .content h4 {
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.bullet .task .content h4 span {
+    color: #e70d22;
+}
+.bullet .task .content button.btn.btn-danger {
+    border-radius: 6rem;
+    font-weight: 700;
+    border: 0;
+    color: #323131;
+    font-size: 18px;
+    padding: 7px 40px;
+    padding-bottom: 10px;
+}
+.footer {
+    padding: 1rem 13rem;
+}
+.footer .task {
+   padding: 3rem 5rem;
+    box-shadow: 0 0.25rem 0.5625rem -0.0625rem rgb(0 0 0 / 0%), 0 0.275rem 1.25rem -0.0625rem rgb(0 0 0 / 44%);
+}
+.footer .contact i.fa.fa-google {
+    background: brown;
+    padding: 6px 7px;
+    border-radius: 4rem;
+    color: #fff;
+    font-size: 16px;
+}
+.footer .contact span {
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    border: 1px solid #b6b2b2;
+    padding: 13px 5px;
+}
+.footer h2 {
+    font-size: 27px;
+    font-family: sans-serif;
+    margin-bottom: 2rem;
+    font-weight: 600;
+}
+.footer .social span {
+    padding: 23px 4px;
+    color: #0000ffb8;
+    background-color: #e1dede;
+    border-radius: 5rem;
+}
+.footer .social i.fa.fa-dribbble {
+    font-size: 30px;
+    background-color: #e1dede;
+    padding: 18px 20px;
+    border-radius: 5rem;
+    color: #0000ffb8;
+    margin-top: -20px;
+}
+.footer .social i.fa.fa-facebook {
+    margin-top: -20px;
+    font-size: 42px;
+    background-color: #e1dede;
+    padding: 12px 20px;
+    border-radius: 5rem;
+    color: #0000ffb8;
+}
+.footer ul {
+    padding: 0;
+}
+.footer ul li {
+    float: left;
+    padding: 1px 10px;
+    list-style: none;
+}
+.footer .social .links {
+    margin-top: 2rem;
+}
+.footer .social .links p {
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.social {
+    float: right;
+}
+
+
+
+@media (max-width: 767px) {
+    .nav ul li {
+        padding: 0px 12px;
+    }
+    .scooter .content {
+    margin-top: 1rem;
+    width: 100%;
+}
+.details {
+    margin-bottom: 0rem;
+    padding: 0rem 6rem;
+    margin-top: 3rem;
+}
+.bike {
+    margin-bottom: 1rem;
+    padding: 0rem 0rem;
+}
+.bike .task {
+    padding: 2rem 3rem;
+}
+.box {
+    background-color: #d3d3d326;
+    padding: 0rem 1rem;
+}
+.card {
+    margin-bottom: 35px;
+}
+.bullet {
+    padding: 2rem 0rem;
+}
+.bullet .task {
+    padding: 0rem 1rem;
+}
+.footer {
+    padding: 1rem 1rem;
+}
+.footer .task {
+    padding: 1rem 1rem;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer .task .contact {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .footer .task .social {
+        float: none;
+    }
+}
+    @media (min-width: 768px) and (max-width: 1024px) {
+.bike {
+    margin-bottom: 3rem;
+    padding: 0rem 0rem;
+}
+.box {
+    background-color: #d3d3d326;
+    padding: 1rem 0rem;
+}
+.bullet {
+    padding: 3rem 0rem;
+}
+.footer {
+    padding: 1rem 1rem;
+}
+}
